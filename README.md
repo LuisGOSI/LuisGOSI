@@ -27,9 +27,9 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunq
 
 - *JavaScript*: ⭐⭐
 - *HTML*: ⭐⭐⭐⭐
--  *CSS*: ⭐⭐⭐
+-  *CSS*: ⭐⭐
 - **C++**: ⭐⭐
-- *NODE.JS*: ⭐⭐
+- *NODE.JS*: ⭐⭐⭐
   
 
 <!-----
