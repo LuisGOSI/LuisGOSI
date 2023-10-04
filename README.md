@@ -13,13 +13,15 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunq
 
 ### 🛠 Proyectos destacados
 
-1. *Qrobus*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](qromovil.onrender.com) | [Código fuente](https://github.com/victoMR/QroMovil)
+1. *Qrobus*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](https://qromovil.onrender.com/) | [Código fuente](https://github.com/victoMR/QroMovil)
 2. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
 ---
 
 ### 📚 Educación
 
 - *Ingeniería en Software* en la [UTSJR](https://www.utsjr.edu.mx/)
+- Certificado en Desarrollo de Aplicaciones Web - [Subir Certificado](enlace-del-certificado)
+- Diploma en Programación Avanzada - [Subir Diploma](enlace-del-diploma)
 
 ---
 
