@@ -20,9 +20,9 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunq
 ### 📚 Educación
 
 - *Ingeniería en Software* en la [UTSJR](https://www.utsjr.edu.mx/)
-- Certificado en Desarrollo de Aplicaciones Web - [Subir Certificado](enlace-del-certificado)
+<!-- - Certificado en Desarrollo de Aplicaciones Web - [Subir Certificado](enlace-del-certificado)
 - Diploma en Programación Avanzada - [Subir Diploma](enlace-del-diploma)
-
+-->
 ---
 
 # Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
