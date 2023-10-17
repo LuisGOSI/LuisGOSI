@@ -20,8 +20,8 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunq
 ### 📚 Educación
 
 - *Ingeniería en Software* en la [UTSJR](https://www.utsjr.edu.mx/)
-- *Certificado en Scrum Fundamentals*[Certificate](https://github.com/LuisGOSI/LuisGOSI/files/12930349/LUIS.IGNACIOGONZALEZ-NDG.Linux.Essent-certificate.pdf)
-- *Certificado en NDG Linux Essentials*[Certificate](https://github.com/LuisGOSI/LuisGOSI/files/12930367/ScrumFundamentalsCertified-LuisIgnacioGonzalezSilva-969457.pdf)
+- *Certificado en Scrum Fundamentals.* Descargar el [certificado](https://github.com/LuisGOSI/LuisGOSI/files/12930349/LUIS.IGNACIOGONZALEZ-NDG.Linux.Essent-certificate.pdf)
+- *Certificado en NDG Linux Essentials* Descargar el [certificado](https://github.com/LuisGOSI/LuisGOSI/files/12930367/ScrumFundamentalsCertified-LuisIgnacioGonzalezSilva-969457.pdf)
 
 
 <!-- - Certificado en Desarrollo de Aplicaciones Web - [Subir Certificado](enlace-del-certificado)
