@@ -13,18 +13,14 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunq
 
 ### 🛠 Proyectos destacados
 
-1. *QroMovil*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](https://qromovil.onrender.com/) | [Código fuente](https://github.com/victoMR/QroMovil)
-2. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
+1. *Qronecta*: Aplicacion web/movil para reducir la brecha digital entre la ciudadania y una ciudad digital. [Ver proyecto](https://qronecta.onrender.com/) | [Código fuente](https://https://github.com/LuisGOSI/Qronecta-Hackhaton)
+2. *QroMovil*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](https://qromovil.onrender.com/) | [Código fuente](https://github.com/victoMR/QroMovil)
+3. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
 ---
 
 ### 📚 Educación
 
 - *Ingeniería en Software* en la [UTSJR](https://www.utsjr.edu.mx/)
-- *Certificado en Scrum Fundamentals.* [Descargar el certificado](https://github.com/LuisGOSI/LuisGOSI/files/12930349/LUIS.IGNACIOGONZALEZ-NDG.Linux.Essent-certificate.pdf)
-- *Certificado en NDG Linux Essentials* [Descargar el certificado](https://github.com/LuisGOSI/LuisGOSI/files/12985154/LUIS.IGNACIOGONZALEZ.SILVA-NDG.Linux.Essent-certificate.pdf)
-- *Certificado de introduccion a IoT* [Descargar el certificado](https://github.com/LuisGOSI/LuisGOSI/files/12984978/LUIS.IGNACIOGONZALEZ.SILVA-Introduction.to.-certificate.pdf)
-
-
 
 <!-- - Certificado en Desarrollo de Aplicaciones Web - [Subir Certificado](enlace-del-certificado)
 - Diploma en Programación Avanzada - [Subir Diploma](enlace-del-diploma)
