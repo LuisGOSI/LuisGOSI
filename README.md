@@ -1,13 +1,13 @@
 # 👨‍💻 Luis Gonzalez - Desarrollador de Software
 
 
-Mi nombre es Luis y soy estudiante de Ingeniería en software en la [UTSJR](https://www.utsjr.edu.mx/), actualmente curso mi 4to cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
+Mi nombre es Luis y soy estudiante de Ingeniería en software en la [UTSJR](https://www.utsjr.edu.mx/), actualmente curso mi 5to cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
 
 ---
 
 ### 📘 Resumen Profesional
 
-Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un  interés en los sistemas operativos , las redes de Cisco y las tecnologias IoT . Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
+Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un  interés en los sistemas operativos , las redes de Cisco y las tecnologias IoT . Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
 
 ---
 
@@ -15,7 +15,8 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programcuon. Aunq
 
 1. *Qronecta*: Aplicacion web/movil para reducir la brecha digital entre la ciudadania y una ciudad digital. [Ver proyecto](https://qronecta.onrender.com/) | [Código fuente](https://https://github.com/LuisGOSI/Qronecta-Hackhaton)
 2. *QroMovil*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](https://qromovil.onrender.com/) | [Código fuente](https://github.com/victoMR/QroMovil)
-3. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
+3. *FilmBox*: Aplicacion web para visualizar reseñas de peliculas y poder subir tu propia reseña. [Ver proyecto](https://https://filmbox-19a6.onrender.com/) | [Código fuente](https://github.com/https://github.com/LuisGOSI/FilmBox)
+4. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
 ---
 
 ### 📚 Educación
