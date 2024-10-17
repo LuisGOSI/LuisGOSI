@@ -18,10 +18,11 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 
 ### 🛠 Proyectos destacados
 
-1. *Qronecta*: Aplicacion web/movil para reducir la brecha digital entre la ciudadania y una ciudad digital. [Ver proyecto](https://qronecta.onrender.com/) | [Código fuente](https://https://github.com/LuisGOSI/Qronecta-Hackhaton)
-2. *QroMovil*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](https://qromovil.onrender.com/) | [Código fuente](https://github.com/victoMR/QroMovil)
-3. *FilmBox*: Aplicacion web para visualizar reseñas de peliculas y poder subir tu propia reseña. [Ver proyecto](https://https://filmbox-19a6.onrender.com/) | [Código fuente](https://github.com/https://github.com/LuisGOSI/FilmBox)
-4. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
+1.CySe-Net: Desarrollo de una pagina web con chatbot para una microempresa de San Juan del Rio, Qro. [Ver proyecto](https://computacionyservicio.mx)
+2. *Qronecta*: Aplicacion web/movil para reducir la brecha digital entre la ciudadania y una ciudad digital. [Ver proyecto](https://qronecta.onrender.com/) | [Código fuente](https://https://github.com/LuisGOSI/Qronecta-Hackhaton)
+3. *QroMovil*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](https://qromovil.onrender.com/) | [Código fuente](https://github.com/victoMR/QroMovil)
+4. *FilmBox*: Aplicacion web para visualizar reseñas de peliculas y poder subir tu propia reseña. [Ver proyecto](https://https://filmbox-19a6.onrender.com/) | [Código fuente](https://github.com/https://github.com/LuisGOSI/FilmBox)
+5. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
 ---
 
 ### 📚 Educación
