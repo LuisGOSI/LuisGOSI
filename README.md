@@ -28,7 +28,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 ### 📚 Educación
 
 - *TSU en TI area desarrollo de software* en la [UTSJR](https://www.utsjr.edu.mx/)
-- *Ingeniería en desarrollo de software* en la [UTSJR](https://www.utsjr.edu.mx/)
+- *Ingeniería en desarrollo de software* en la [UTL](https://www.utleon.edu.mx)
 
 <!-- - Certificado en Desarrollo de Aplicaciones Web - [Subir Certificado](enlace-del-certificado)
 - Diploma en Programación Avanzada - [Subir Diploma](enlace-del-diploma)
