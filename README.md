@@ -1,7 +1,7 @@
 # 👨‍💻 Luis Gonzalez - Desarrollador de Software
 
 
-Mi nombre es Luis, soy TSU en TI area desarrollo de software y actualmente soy estudiante de Ingeniería en desarrollo de software en la [UTL](https://www.utleon.edu.mx/), actualmente curso mi 9no cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
+Mi nombre es Luis, soy TSU en TI area desarrollo de software y actualmente soy estudiante de Ingeniería en desarrollo de software en la [UTL](https://www.utleon.edu.mx/), actualmente curso mi 10mo cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
 
 ---
 ## 🚩Objetivo profesional
@@ -12,17 +12,19 @@ Diseñar e implementar funcionalidades y herramientas avanzadas utilizando tecno
 
 ### 📘 Resumen profesional
 
-Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un  interés en los sistemas operativos , las redes de Cisco y las tecnologias IoT . Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
+Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Aunque todavía estoy en una fase temprana de mi carrera, no puedo esperar por aprender y contribuir en el mundo del desarrollo de software. Aparte de la programación, tengo un  interés en intenligencia artificial , tecnologias IoT y desarrollo de videojuegos . Siempre estoy dispuesto a aprender de otros desarrolladores y a ayudar en lo que pueda.
 
 ---
 
 ### 🛠 Proyectos destacados
 
-1. *CySe-Net*: Desarrollo de una pagina web con chatbot para una microempresa de San Juan del Rio, Qro. [Ver proyecto](https://computacionyservicio.mx) |
-2. *Qronecta*: Aplicacion web/movil para reducir la brecha digital entre la ciudadania y una ciudad digital. [Ver proyecto](https://qronecta.onrender.com/) | [Código fuente](https://https://github.com/LuisGOSI/Qronecta-Hackhaton)
-3. *QroMovil*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Ver proyecto](https://qromovil.onrender.com/) | [Código fuente](https://github.com/victoMR/QroMovil)
-4. *FilmBox*: Aplicacion web para visualizar reseñas de peliculas y poder subir tu propia reseña. [Ver proyecto](https://https://filmbox-19a6.onrender.com/) | [Código fuente](https://github.com/https://github.com/LuisGOSI/FilmBox)
-5. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Ver proyecto](https://greenwaste.onrender.com) | [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
+1. *CySe-Net*: Desarrollo de una pagina web con chatbot para una microempresa de San Juan del Rio, Qro. [Ver proyecto](https://computacionyservicio.mx)
+2. *DonGalleto*: Aplicacion integral con diferentes modulos de gestion para una empresa de galletas. [Código fuente](https://github.com/LuisGOSI/donGalleto)
+3. *RememberMe*: Aplicacion movil con comunicacion a un modulo ESP32 via Bluetooth para recordatorio de pastillas medicas. [Código fuente](https://github.com/LuisGOSI/rememberMeExpo49)
+4. *Qronecta*: Aplicacion web/movil para reducir la brecha digital entre la ciudadania y una ciudad digital.[Código fuente](https://https://github.com/LuisGOSI/Qronecta-Hackhaton)
+5. *QroMovil*: Aplicación Móvil para los servicios de transporte público del estado de Querétaro. [Código fuente](https://github.com/victoMR/QroMovil)
+6. *FilmBox*: Aplicacion web para visualizar reseñas de peliculas y poder subir tu propia reseña. [Código fuente](https://github.com/https://github.com/LuisGOSI/FilmBox)
+7. *GreenWaste*: Aplicación web que nos guia a hacer una mejor gestion de residuos mediante manualidades y recomendaciones de su manejo. [Código fuente](https://github.com/LuisGOSI/GreenWaste_Pagina)
 ---
 
 ### 📚 Educación
@@ -127,7 +129,7 @@ Soy un estudiante con muchas ganas de crecer en el mundo de la programación. Au
 Si estás interesado en colaborar o trabajar juntos , ¡estaré encantado de escuchar de ti!
 
 <div align="center">
-    <a href="mailto:ignaciogs.ti22@utsjr.edu.mx" style="margin-right: 5px;">
+    <a href="mailto:luis_gosi@outlook.com" style="margin-right: 5px;">
         <img src="https://user-images.githubusercontent.com/78341798/194531383-ddb2b774-5bb9-491c-b601-4a4a7d9792fb.svg" alt="gmail" width="50px" />
     </a>
     <a href="https://www.instagram.com/luis.igsi/" target='_blank'>
