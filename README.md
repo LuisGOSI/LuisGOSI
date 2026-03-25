@@ -1,7 +1,7 @@
 # 👨‍💻 Luis Gonzalez - Desarrollador de Software
 
 
-Mi nombre es Luis, soy TSU en TI area desarrollo de software y actualmente soy estudiante de Ingeniería en desarrollo de software en la [UTL](https://www.utleon.edu.mx/), actualmente curso mi 10mo cuatrimestre. Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
+Mi nombre es Luis, soy TSU en TI area desarrollo de software y actualmente soy estudiante de Ingeniería en desarrollo de software en la [UTL](https://www.utleon.edu.mx/), actualmente curso mi 11vo cuatrimestre (Practicas profesionales). Estoy buscando crecer en el campo del desarrollo de software (principalmente en back-end), colaborar en proyectos que aporten a mi experiencia y conocer otros desarrolladores y aprender de ellos.
 
 ---
 ## 🚩Objetivo profesional
